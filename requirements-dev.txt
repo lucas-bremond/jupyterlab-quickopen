@@ -1,5 +1,5 @@
 black
-jupyterlab>=3.1,<4.0a
+jupyterlab>=3.1
 jupyter-packaging
 twine
 wheel
